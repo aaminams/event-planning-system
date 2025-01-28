@@ -1,4 +1,1 @@
-download the jar file. 
-the database wont work because its stored locally. 
-but the rest of the application should work as intended. 
-the username and passwords are both set to "user" for ease of access.
+This is a simple desktop application designed for event planning. The database is stored locally and will not work outside the original development environment. This means features dependent on the database are currently unavailable. The rest of the application is fully functional and can be used as intended. Future Improvements include Implementing a remote database solution to enable full functionality.
