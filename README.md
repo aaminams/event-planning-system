@@ -1,2 +1,2 @@
 This is a simple desktop application designed for event planning. The database is stored locally and will not work outside the original development environment. This means features dependent on the database are currently unavailable. The rest of the application is fully functional and can be used as intended. Future Improvements include Implementing a remote database solution to enable full functionality.
-(For ease of access, Username - event, Password - event)
+(For ease of access, Common Username - event, Common Password - event, Staff Password - staff, Admin Password - admin)
